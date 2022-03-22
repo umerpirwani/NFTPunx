@@ -1,0 +1,565 @@
+{
+   "HEADS":{
+      "name":"HEADS",
+      "options":[
+         {
+            "fileName":"HEADblackRegular.png",
+            "name":"black regular",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADblackRegular.png"
+         },
+         {
+            "fileName":"HEADblackskinny.png",
+            "name":"black skinny",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADblackskinny.png"
+         },
+         {
+            "fileName":"HEADblueregular.png",
+            "name":"blue regular",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADblueregular.png"
+         },
+         {
+            "fileName":"HEADblueskinny.png",
+            "name":"blue skinny",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADblueskinny.png"
+         },
+         {
+            "fileName":"HEADoliveRegular.png",
+            "name":"olive regular",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADoliveRegular.png"
+         },
+         {
+            "fileName":"HEADoliveskinny.png",
+            "name":"olive skinny",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADoliveskinny.png"
+         },
+         {
+            "fileName":"HEADwhiteRegular.png",
+            "name":"white regular",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADwhiteRegular.png"
+         },
+         {
+            "fileName":"HEADwhiteSkinny.png",
+            "name":"white skinny",
+            "path":"assets/images/ui/character-creator/attributes/HEADS/HEADwhiteSkinny.png"
+         }
+      ]
+   },  
+   "EYES":{
+      "name":"EYES",
+      "options":[
+         {
+            "fileName":"CYCLOPSblue.png",
+            "name":"CYCLOPS blue",
+            "path":"assets/images/ui/character-creator/attributes/EYES/CYCLOPSblue.png"
+         },
+         {
+            "fileName":"CYCLOPSgreen.png",
+            "name":"CYCLOPS green",
+            "path":"assets/images/ui/character-creator/attributes/EYES/CYCLOPSgreen.png"
+         },
+         {
+            "fileName":"CYCLOPSpink.png",
+            "name":"CYCLOPS pink",
+            "path":"assets/images/ui/character-creator/attributes/EYES/CYCLOPSpink.png"
+         },
+         {
+            "fileName":"EYESblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/EYES/EYESblue.png"
+         },
+         {
+            "fileName":"EYESgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/EYES/EYESgreen.png"
+         },
+         {
+            "fileName":"EYESpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/EYES/EYESpink.png"
+         },
+         {
+            "fileName":"GLASSESbigblue.png",
+            "name":"GLASSES big blue",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESbigblue.png"
+         },
+         {
+            "fileName":"GLASSESbiggreen.png",
+            "name":"GLASSES big green",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESbiggreen.png"
+         },
+         {
+            "fileName":"GLASSESbigpink.png",
+            "name":"GLASSES big pink",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESbigpink.png"
+         },
+         {
+            "fileName":"GLASSEShipsterblue.png",
+            "name":"GLASSES hipster blue",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSEShipsterblue.png"
+         },
+         {
+            "fileName":"GLASSEShipstergreen.png",
+            "name":"GLASSES hipster green",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSEShipstergreen.png"
+         },
+         {
+            "fileName":"GLASSEShipsterpink.png",
+            "name":"GLASSES hipster pink",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSEShipsterpink.png"
+         },
+         {
+            "fileName":"GLASSESthinblue.png",
+            "name":"GLASSES thin blue",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESthinblue.png"
+         },
+         {
+            "fileName":"GLASSESthingreen.png",
+            "name":"GLASSES thin green",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESthingreen.png"
+         },
+         {
+            "fileName":"GLASSESthinpink.png",
+            "name":"GLASSES thin pink",
+            "path":"assets/images/ui/character-creator/attributes/EYES/GLASSESthinpink.png"
+         }
+      ]
+   },
+   "MOUTHS":{
+      "name":"MOUTHS",
+      "options":[
+         {
+            "fileName":"MOUTHblack.png",
+            "name":"black",
+            "path":"assets/images/ui/character-creator/attributes/MOUTHS/MOUTHblack.png"
+         },
+         {
+            "fileName":"MOUTHblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/MOUTHS/MOUTHblue.png"
+         },
+         {
+            "fileName":"MOUTHdarkBlue.png",
+            "name":"dark Blue",
+            "path":"assets/images/ui/character-creator/attributes/MOUTHS/MOUTHdarkBlue.png"
+         },
+         {
+            "fileName":"MOUTHgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/MOUTHS/MOUTHgreen.png"
+         },
+         {
+            "fileName":"MOUTHpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/MOUTHS/MOUTHpink.png"
+         }
+      ]
+   },
+   "NOSES":{
+      "name":"NOSES",
+      "options":[
+         {
+            "fileName":"NOSEalien.png",
+            "name":"alien",
+            "path":"assets/images/ui/character-creator/attributes/NOSES/NOSEalien.png"
+         },
+         {
+            "fileName":"NOSElong.png",
+            "name":"long",
+            "path":"assets/images/ui/character-creator/attributes/NOSES/NOSElong.png"
+         },
+         {
+            "fileName":"NOSEwide.png",
+            "name":"wide",
+            "path":"assets/images/ui/character-creator/attributes/NOSES/NOSEwide.png"
+         }
+      ]
+   },
+   "HAIR":{
+      "name":"HAIR",
+      "options":[
+         {
+            "fileName":"LONGevenblue.png",
+            "name":"long even blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGevenblue.png"
+         },
+         {
+            "fileName":"LONGevengreen.png",
+            "name":"long even green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGevengreen.png"
+         },
+         {
+            "fileName":"LONGevenpink.png",
+            "name":"long even pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGevenpink.png"
+         },
+         {
+            "fileName":"LONGsideblue.png",
+            "name":"long side blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGsideblue.png"
+         },
+         {
+            "fileName":"LONGsidegreen.png",
+            "name":"long side green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGsidegreen.png"
+         },
+         {
+            "fileName":"LONGsidepink.png",
+            "name":"long side pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/LONGsidepink.png"
+         },
+         {
+            "fileName":"MOHAWKcenter-blue.png",
+            "name":"mohawk blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/MOHAWKcenter-blue.png"
+         },
+         {
+            "fileName":"MOHAWKcenter-green.png",
+            "name":"mohawk green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/MOHAWKcenter-green.png"
+         },
+         {
+            "fileName":"MOHAWKcenter-pink.png",
+            "name":"mohawk pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/MOHAWKcenter-pink.png"
+         },
+         {
+            "fileName":"SIDESPIKEblue.png",
+            "name":"side spike blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SIDESPIKEblue.png"
+         },
+         {
+            "fileName":"SIDESPIKEgreen.png",
+            "name":"side spike green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SIDESPIKEgreen.png"
+         },
+         {
+            "fileName":"SIDESPIKEpink.png",
+            "name":"side spike pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SIDESPIKEpink.png"
+         },
+         {
+            "fileName":"SPIKE4blue.png",
+            "name":"spike-4 blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKE4blue.png"
+         },
+         {
+            "fileName":"SPIKE4green.png",
+            "name":"spike-4 green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKE4green.png"
+         },
+         {
+            "fileName":"SPIKE4pink.png",
+            "name":"spike-4 pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKE4pink.png"
+         },
+         {
+            "fileName":"SPIKEblue.png",
+            "name":"spike blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEblue.png"
+         },
+         {
+            "fileName":"SPIKEgreen.png",
+            "name":"spike green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEgreen.png"
+         },
+         {
+            "fileName":"SPIKEpink.png",
+            "name":"spike pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEpink.png"
+         },
+         {
+            "fileName":"SPIKEwildblue.png",
+            "name":"spike wild blue",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEwildblue.png"
+         },
+         {
+            "fileName":"SPIKEwildgreen.png",
+            "name":"spike wild green",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEwildgreen.png"
+         },
+         {
+            "fileName":"SPIKEwildpink.png",
+            "name":"spike wild pink",
+            "path":"assets/images/ui/character-creator/attributes/HAIR/SPIKEwildpink.png"
+         }
+      ]
+   },
+     "BEARDS":{
+      "name":"BEARDS",
+      "options":[
+         {
+            "fileName":"BEARDBIGblue.png",
+            "name":"big blue",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDBIGblue.png"
+         },
+         {
+            "fileName":"BEARDBIGgreen.png",
+            "name":"big green",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDBIGgreen.png"
+         },
+         {
+            "fileName":"BEARDBIGpink.png",
+            "name":"big pink",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDBIGpink.png"
+         },
+         {
+            "fileName":"BEARDblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDblue.png"
+         },
+         {
+            "fileName":"BEARDgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDgreen.png"
+         },
+         {
+            "fileName":"BEARDpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/BEARDpink.png"
+         },
+         {
+            "fileName":"SPATCHblue.png",
+            "name":"spatch blue",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/SPATCHblue.png"
+         },
+         {
+            "fileName":"SPATCHgreen.png",
+            "name":"spatch green",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/SPATCHgreen.png"
+         },
+         {
+            "fileName":"SPATCHpink.png",
+            "name":"spatch pink",
+            "path":"assets/images/ui/character-creator/attributes/BEARDS/SPATCHpink.png"
+         }
+      ]
+   },
+   "ANTENNA":{
+      "name":"ANTENNA",
+      "options":[
+         {
+            "fileName":"ANTENNABlue.png",
+            "name":"Blue",
+            "path":"assets/images/ui/character-creator/attributes/ANTENNA/ANTENNABlue.png"
+         },
+         {
+            "fileName":"ANTENNAgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/ANTENNA/ANTENNAgreen.png"
+         },
+         {
+            "fileName":"ANTENNApink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/ANTENNA/ANTENNApink.png"
+         }
+      ]
+   },
+   "BACKGROUNDS":{
+      "disabled":true,
+      "name":"BACKGROUND",
+      "options":[
+         {
+            "fileName":"background.png",
+            "name":"background",
+            "path":"assets/images/ui/character-creator/attributes/BACKGROUNDS/background.png"
+         }
+      ]
+   },
+ 
+   "BINDI":{
+      "name":"BINDI",
+      "options":[
+         {
+            "fileName":"BINDIblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/BINDI/BINDIblue.png"
+         },
+         {
+            "fileName":"BINDIgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/BINDI/BINDIgreen.png"
+         },
+         {
+            "fileName":"BINDIpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/BINDI/BINDIpink.png"
+         }
+      ]
+   },
+   "CHOKERS":{
+      "name":"CHOKERS",
+      "options":[
+         {
+            "fileName":"CHOKERblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERblue.png"
+         },
+         {
+            "fileName":"CHOKERgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERgreen.png"
+         },
+         {
+            "fileName":"CHOKERmetalblue.png",
+            "name":"metal blue",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERmetalblue.png"
+         },
+         {
+            "fileName":"CHOKERmetalgreen.png",
+            "name":"metal green",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERmetalgreen.png"
+         },
+         {
+            "fileName":"CHOKERmetalpink.png",
+            "name":"metal pink",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERmetalpink.png"
+         },
+         {
+            "fileName":"CHOKERpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/CHOKERS/CHOKERpink.png"
+         }
+      ]
+   },
+   "DEVO":{
+      "name":"DEVO",
+      "options":[
+         {
+            "fileName":"DEVOHATgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/DEVO/DEVOHATgreen.png"
+         },
+         {
+            "fileName":"DEVOHATpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/DEVO/DEVOHATpink.png"
+         },
+         {
+            "fileName":"DEVOHATred.png",
+            "name":"red",
+            "path":"assets/images/ui/character-creator/attributes/DEVO/DEVOHATred.png"
+         }
+      ]
+   },
+
+   "HEADPHONES":{
+      "name":"HEADPHONES",
+      "options":[
+         {
+            "fileName":"HEADPHONESblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/HEADPHONES/HEADPHONESblue.png"
+         },
+         {
+            "fileName":"HEADPHONESgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/HEADPHONES/HEADPHONESgreen.png"
+         },
+         {
+            "fileName":"HEADPHONESpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/HEADPHONES/HEADPHONESpink.png"
+         }
+      ]
+   },
+   "HOODIES":{
+      "name":"HOODIES",
+      "options":[
+         {
+            "fileName":"hoodieblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/HOODIES/hoodieblue.png"
+         },
+         {
+            "fileName":"hoodiegreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/HOODIES/hoodiegreen.png"
+         },
+         {
+            "fileName":"hoodiepink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/HOODIES/hoodiepink.png"
+         }
+      ]
+   },
+   "MASKBOTTOM":{
+      "name":"mask BOTTOM",
+      "options":[
+         {
+            "fileName":"MASKbottomblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/MASKBOTTOM/MASKbottomblue.png"
+         },
+         {
+            "fileName":"MASKbottomgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/MASKBOTTOM/MASKbottomgreen.png"
+         },
+         {
+            "fileName":"MASKbottompink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/MASKBOTTOM/MASKbottompink.png"
+         }
+      ]
+   },
+   "MASKS":{
+      "name":"masks",
+      "options":[
+         {
+            "fileName":"MASKblue.png",
+            "name":"mask blue",
+            "path":"assets/images/ui/character-creator/attributes/MASKS/MASKblue.png"
+         },
+         {
+            "fileName":"MASKgreen.png",
+            "name":"mask green",
+            "path":"assets/images/ui/character-creator/attributes/MASKS/MASKgreen.png"
+         },
+         {
+            "fileName":"MASKpink.png",
+            "name":"mask pink",
+            "path":"assets/images/ui/character-creator/attributes/MASKS/MASKpink.png"
+         }
+      ]
+   },
+   "ROBOTHEAD":{
+      "name":"ROBOTHEAD",
+      "options":[
+         {
+            "fileName":"ROBOThead.png",
+            "name":"ROBOThead",
+            "path":"assets/images/ui/character-creator/attributes/ROBOTHEAD/ROBOThead.png"
+         }
+      ]
+   },
+   "ROBOTNECK":{
+      "name":"ROBOTNECK",
+      "options":[
+         {
+            "fileName":"NECKrobot.png",
+            "name":"robot",
+            "path":"assets/images/ui/character-creator/attributes/ROBOTNECK/NECKrobot.png"
+         }
+      ]
+   },
+   "VAPES":{
+      "name":"VAPES",
+      "options":[
+         {
+            "fileName":"VAPEblue.png",
+            "name":"blue",
+            "path":"assets/images/ui/character-creator/attributes/VAPES/VAPEblue.png"
+         },
+         {
+            "fileName":"VAPEgreen.png",
+            "name":"green",
+            "path":"assets/images/ui/character-creator/attributes/VAPES/VAPEgreen.png"
+         },
+         {
+            "fileName":"VAPEpink.png",
+            "name":"pink",
+            "path":"assets/images/ui/character-creator/attributes/VAPES/VAPEpink.png"
+         }
+      ]
+   }
+}

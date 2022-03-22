@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.modal-body, .modal-header{
+  /* color:black; */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.modal-content {
+  background-color: #000000;
+}
+.modal-body {
+  padding:5em 0em;
+  text-align:center;
+}
+ .modal-header, .modal-footer { 
+     padding:3em 0em;
+       text-align:center;
+
+ }.modal-footer button {
+       position: relative;
+    margin: 0 auto;
+    background-color: transparent;
+    outline: white;
+    border-color: white;
+    padding: 1em 3em;
+
+ }
+.modal-title {
+  width:100%;
+}
+.modal-body .verify-twitter-account-button{
+  width:80%;
+  margin:0 auto;
+  margin-bottom: 30px;
+}
+.modal-body .connect-metamask-button{
+  width:80%;
+  margin-left:10%;
+  margin-bottom: 5px;
+}
+.info-container {
+  padding-top:3em;
+}
+@media (min-width: 1300px) {
+  .modal-body{
+    display: none;   
+  }
+  .innera .attribute-points,.innera .drop-down-attributes {
+    display: none !important;
+  }
+}
+@media (max-width: 1300px) {
+  .mobile-center {
+    text-align:center;
+    margin-top:3em;
+    padding:1em;
+  }
+  .spacer {
+    display:none !important;
+  }
+  .action-buttons{
+    display: none;   
+  }
+  .logo img {
+    width:60% !important;
+  }
+  .page-title {
+    font-size:x-large;
+  }
+  .attribute-panel, .inner .attribute {
+    display: none !important;
+  }
+  .action-panel {
+    width:100%;
+  }
+  
+  .red span {
+    font-size:15px;
+  }
+  .action-panel .inner .ps-5 button {
+    position:static !important ;
+    width: fit-content;
+  }
+  .ps-5 {
+    padding:auto !important;
+  }
+}
+
+
+

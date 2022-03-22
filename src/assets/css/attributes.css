@@ -1,0 +1,560 @@
+ #character-preview { 
+     position:relative;
+     width:431px;
+     height:431px;
+     margin:0 auto;
+     
+ }
+  #character-preview div { 
+         
+     position:absolute;
+     background-size:100%;
+     background-repeat:no-repeat;
+     background-position:center;
+  }
+  
+.floating { 
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+ 
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }   
+}
+ #ANTENNA { 
+z-index:20;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #ANTENNA.Blue  { 
+     
+    background-image:url(../images/ui/character-creator/attributes/ANTENNA/ANTENNABlue.png)
+}
+ #ANTENNA.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/ANTENNA/ANTENNAgreen.png)
+}
+ #ANTENNA.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/ANTENNA/ANTENNApink.png)
+}
+ #BACKGROUNDS { 
+z-index:0;
+width:100%;
+height:100%;
+left:0;
+bottom:0;
+ }
+ #BACKGROUNDS.background { 
+    background-image:url(../images/ui/character-creator/attributes/BACKGROUNDS/background.png)
+}
+
+ #BEARDS { 
+z-index:2;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #BEARDS.big {
+       left: 36px;    width:340px;
+    bottom: -15px;
+ }
+ #BEARDS.big.blue { 
+
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDBIGblue.png)
+}
+ #BEARDS.big.green { 
+
+ 
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDBIGgreen.png)
+}
+ #BEARDS.big.pink { 
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDBIGpink.png)
+}
+ #BEARDS.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDblue.png)
+}
+ #BEARDS.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDgreen.png)
+}
+ #BEARDS.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/BEARDpink.png)
+}
+ #BEARDS.SPATCHblue { 
+    
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/SPATCHblue.png)
+}
+ #BEARDS.SPATCHgreen { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/SPATCHgreen.png)
+}
+ #BEARDS.SPATCHpink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BEARDS/SPATCHpink.png)
+}
+ #BINDI { 
+z-index: 20;
+width:431px;
+height:431px;
+
+left:0;
+bottom:0;
+ }
+ #BINDI.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BINDI/BINDIblue.png)
+}
+ #BINDI.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BINDI/BINDIgreen.png)
+}
+ #BINDI.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/BINDI/BINDIpink.png)
+}
+
+ #CHOKERS { 
+z-index:5;
+width:431px;
+height:431px;
+
+left:0;
+bottom:0;
+ }
+ #CHOKERS.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERblue.png)
+}
+ #CHOKERS.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERgreen.png)
+}
+ #CHOKERS.metal.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERmetalblue.png)
+}
+ #CHOKERS.metal.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERmetalgreen.png)
+}
+ #CHOKERS.metal.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERmetalpink.png)
+}
+ #CHOKERS.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/CHOKERS/CHOKERpink.png)
+}
+ #DEVO { 
+z-index:18;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #DEVO.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/DEVO/DEVOHATgreen.png)
+}
+ #DEVO.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/DEVO/DEVOHATpink.png)
+}
+ #DEVO.red { 
+     
+    background-image:url(../images/ui/character-creator/attributes/DEVO/DEVOHATred.png)
+}
+
+ #EYES { 
+z-index:10;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #EYES.CYCLOPS.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/CYCLOPSblue.png)
+}
+ #EYES.CYCLOPS.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/CYCLOPSgreen.png)
+}
+ #EYES.CYCLOPS.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/CYCLOPSpink.png)
+}
+ #EYES.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/EYESblue.png)
+}
+ #EYES.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/EYESgreen.png)
+}
+ #EYES.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/EYESpink.png)
+}
+ #EYES.GLASSES.big.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESbigblue.png)
+}
+ #EYES.GLASSES.big.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESbiggreen.png)
+}
+ #EYES.GLASSES.big.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESbigpink.png)
+}
+ #EYES.GLASSES.hipster.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSEShipsterblue.png)
+}
+ #EYES.GLASSES.hipster.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSEShipstergreen.png)
+}
+ #EYES.GLASSES.hipster.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSEShipsterpink.png)
+}
+ #EYES.GLASSES.thin.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESthinblue.png)
+}
+ #EYES.GLASSES.thin.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESthingreen.png)
+}
+ #EYES.GLASSES.thin.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/EYES/GLASSESthinpink.png)
+}
+
+#HAIR { 
+z-index:5;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #HAIR.long.even.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGevenblue.png)
+}
+ #HAIR.long.even.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGevengreen.png)
+}
+ #HAIR.long.even.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGevenpink.png)
+}
+ #HAIR.long.side.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGsideblue.png)
+}
+ #HAIR.long.side.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGsidegreen.png)
+}
+ #HAIR.long.side.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/LONGsidepink.png)
+}
+ #HAIR.mohawk.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/MOHAWKcenter-blue.png)
+}
+ #HAIR.mohawk.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/MOHAWKcenter-green.png)
+}
+ #HAIR.mohawk.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/MOHAWKcenter-pink.png)
+}
+ #HAIR.side.spike.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SIDESPIKEblue.png)
+}
+ #HAIR.side.spike.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SIDESPIKEgreen.png)
+}
+ #HAIR.side.spike.pink { 
+    width: 430px;
+    height: 413px;
+    left: 1px; 
+    bottom: 9px;
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SIDESPIKEpink.png)
+}
+ #HAIR.spike-4.blue { 
+    bottom:110px;
+    /* left: -10px; */
+    width:360px;
+    /* height:360px; */
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKE4blue.png)
+}
+ #HAIR.spike-4.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKE4green.png)
+}
+ #HAIR.spike-4.pink { 
+    /* bottom: 100px; */
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKE4pink.png)
+}
+ #HAIR.spike.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEblue.png)
+}
+ #HAIR.spike.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEgreen.png)
+}
+ #HAIR.spike.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEpink.png)
+}
+ #HAIR.spike.wild.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEwildblue.png)
+}
+ #HAIR.spike.wild.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEwildgreen.png)
+}
+ #HAIR.spike.wild.pink { 
+         
+    background-image:url(../images/ui/character-creator/attributes/HAIR/SPIKEwildpink.png)
+}
+
+#HEADPHONES { 
+z-index: 20;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #HEADPHONES.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADPHONES/HEADPHONESblue.png)
+}
+ #HEADPHONES.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADPHONES/HEADPHONESgreen.png)
+}
+
+
+ #HEADPHONES.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADPHONES/HEADPHONESpink.png)
+}
+
+#HEADS { 
+z-index:1;
+
+left:0;
+bottom:0;
+width: 431px;
+height:431px;
+ }
+ #HEADS.black.regular { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADblackRegular.png)
+}
+ #HEADS.black.skinny { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADblackskinny.png)
+}
+ #HEADS.blue.regular { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADblueregular.png)
+}
+ #HEADS.blue.skinny { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADblueskinny.png)
+}
+ #HEADS.olive.regular { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADoliveRegular.png)
+}
+ #HEADS.olive.skinny { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADoliveskinny.png)
+}
+ #HEADS.white.regular { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADwhiteRegular.png)
+}
+ #HEADS.white.skinny { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HEADS/HEADwhiteSkinny.png)
+}
+
+#HOODIES { 
+z-index:18;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #HOODIES.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HOODIES/hoodieblue.png)
+}
+ #HOODIES.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HOODIES/hoodiegreen.png)
+}
+ #HOODIES.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/HOODIES/hoodiepink.png)
+}
+
+#MASKBOTTOM { 
+z-index:10;
+width:431px;
+height:431px;  
+left:0;
+bottom:0;
+ }
+ #MASKBOTTOM.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKBOTTOM/MASKbottomblue.png)
+}
+ #MASKBOTTOM.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKBOTTOM/MASKbottomgreen.png)
+}
+ #MASKBOTTOM.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKBOTTOM/MASKbottompink.png)
+}
+ #MASKS.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKS/MASKblue.png)
+}
+
+#MASKS { 
+z-index:9;
+width:431px;
+height:431px;
+
+left:0;
+bottom:0;
+ }
+ #MASKS.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKS/MASKgreen.png)
+}
+ #MASKS.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MASKS/MASKpink.png)
+}
+
+#MOUTHS { 
+z-index:100;
+width:431px;
+height:431px;
+
+left:0;
+bottom:0;
+ }
+ #MOUTHS.black { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MOUTHS/MOUTHblack.png)
+}
+ #MOUTHS.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MOUTHS/MOUTHblue.png)
+}
+ #MOUTHS.dark.Blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MOUTHS/MOUTHdarkBlue.png)
+}
+ #MOUTHS.green { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MOUTHS/MOUTHgreen.png)
+}
+ #MOUTHS.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/MOUTHS/MOUTHpink.png)
+}
+
+#NOSES { 
+z-index:9;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #NOSES.alien { 
+     
+    background-image:url(../images/ui/character-creator/attributes/NOSES/NOSEalien.png)
+}
+ #NOSES.long { 
+     
+    background-image:url(../images/ui/character-creator/attributes/NOSES/NOSElong.png)
+}
+ #NOSES.wide { 
+     
+    background-image:url(../images/ui/character-creator/attributes/NOSES/NOSEwide.png)
+}
+
+#ROBOTHEAD { 
+z-index:25;
+width:431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+
+ #ROBOTNECK { 
+z-index:10;
+width: 431px;
+height:431px;
+left:0;
+bottom:0;
+ }
+ #ROBOTHEAD.ROBOThead { 
+     
+    background-image:url(../images/ui/character-creator/attributes/ROBOTHEAD/ROBOThead.png)
+}
+ #ROBOTNECK.robot { 
+     
+    background-image:url(../images/ui/character-creator/attributes/ROBOTNECK/NECKrobot.png)
+}
+
+#VAPES { 
+z-index:18;
+left:0;
+bottom:0;
+width: 431px;
+height: 431px;
+ }
+ #VAPES.blue { 
+     
+    background-image:url(../images/ui/character-creator/attributes/VAPES/VAPEblue.png)
+}
+ #VAPES.green {     
+    background-image:url(../images/ui/character-creator/attributes/VAPES/VAPEgreen.png)
+}
+ #VAPES.pink { 
+     
+    background-image:url(../images/ui/character-creator/attributes/VAPES/VAPEpink.png)
+}

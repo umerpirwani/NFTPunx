@@ -1,0 +1,29 @@
+
+character{
+z-index: -1000;   
+}
+
+.shirt{
+	visibility:hidden;
+  z-index: 2;
+}
+
+.pant{
+	visibility:hidden;
+  z-index: 1;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

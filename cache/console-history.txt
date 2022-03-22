@@ -1,0 +1,5 @@
+quit
+quite
+exit
+exi
+exit()
